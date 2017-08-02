@@ -3,3 +3,71 @@ Doc Version : 1.0
 Release : 02-08-2017
 Author : Bayu S.
 
+Pengantar terkait ethical hacker,
+Diadopsi dari modul Certified Ethical Hacker - EC Council.
+
+Materi Certified Ethical Hacker (CEH) 
+sebanyak 18 Modul adalah sebagai berikut :
+a.	Modul Introduction to Ethical Hacking (Hari 1).
+b.	Modul Footprinting and Reconnaissance (Hari 1).
+c.	Modul Scanning Networks (Hari 1).
+d.	Modul Enumeration (Hari 1).
+e.	Modul System Hacking (Hari 2).
+f.	Modul Malware Threats (Hari 2).
+g.	Modul Sniffing (Hari 2).
+h.	Modul Social Engineering (Hari 2).
+i.	Modul Denial-of-Service (Hari 3).
+j.	Modul Session Hijacking (Hari 3).
+k.	Modul Hacking Webservers (Hari 3).
+l.	Modul Hacking Web Applications (Hari 4).
+m.	Modul SQL Injection (Hari 4).
+n.	Modul Hacking Wireless Networks (Hari 4).
+o.	Modul Hacking Mobile Platforms (Hari 5).
+p.	Modul Evading IDS, Firewalls, and Honeypots (Hari 5).
+q.	Modul Cloud Computing (Hari 5).
+r.	Modul Cryptography (Hari 5).
+s.	Online Exam CEH (Hari 5) - 125 Soal Selama 4 Jam 
+
+Siapakah (Who is) Hacker? 
+Hacker adalah seorang yang mempunyai kemampuan TIK yang mendalam 
+di bidang hardware atau software, yang dapat menemukan kelemahan 
+sebuah sistem komputer (Real Hacker). 
+
+Ada beberapa klasifikasi pelaku hacking (proses eksploitasi 
+kelemahan suatu sistem komputer yang dapat mengakibatkan ancaman 
+pada keamanan informasi) yaitu sebagai berikut :
+
+a.	White Hacker (disebut juga Ethical Hacker) 
+adalah seorang yang melakukan “penetration test” secara legal, 
+menggunakan kemampuan hackingnya untuk melakukan pertahanan 
+(defense) serta menjamin Keamanan Informasi pada suatu organisasi.
+
+b.	Black Hacker adalah seorang yang mempunyai keahlian di bidang TIK 
+untuk melakukan serangan hacking (offensive) dengan tujuan merusak 
+bahkan sudah menjurus tindakan kriminal yang melanggar hukum .
+
+c.	Gray Hacker adalah seseorang yang melakukan hacking baik secara 
+offensive dan defensive (berperan sebagai white/black hacker) 
+bertujuan untuk meningkatkan kualitas sebuah produk (hardware/software).
+
+d.	Suicide Hacker adalah seorang yang melakukan hacking terhadap 
+sistem yang kritis pada sebuah organisasi dengan sebab tertentu 
+dan siap menerima apapun resikonya termasuk dihukum pidana penjara.
+
+e.	Script Kiddies adalah seorang dengan kemampuan TIK rendah 
+yang menjalankan “script” buatan seorang “real hacker” untuk melakukan 
+serangan terhadap suatu sistem, yang menjadi tujuan adalah kuantitas 
+serangan bukan kualitas sebuah serangan.
+
+f.	Cyber Terorist adalah seseorang dengan kemampuan beragam 
+yang dipengaruhi keyakinan agama atau pandangan politis, 
+menciptakan ketakutan serta gangguan berskala besar pada jaringan komputer.
+
+g.	State Sponsored Hacker adalah seseorang yang dibiayai negara 
+untuk mencari, mengambil atau menghapus informasi rahasia negara lain.
+
+h.	Hacktivist adalah seseorang yang melakukan hacking pada sistem komputer 
+pada sebuah negara atau perusahaan sebagai bentuk protes.
+
+
+.....
