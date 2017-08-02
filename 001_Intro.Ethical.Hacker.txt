@@ -1,7 +1,8 @@
-#Intro Ethical Hacker
+# Intro Ethical Hacker
+Author : Bayu S.
 Doc Version : 1.0
 Release : 02-08-2017
-Author : Bayu S.
+Source : https://github.com/bayusetyatmoko/security/blob/master/001_Intro.Ethical.Hacker.txt
 
 Pengantar terkait ethical hacker,
 Diadopsi dari modul Certified Ethical Hacker - EC Council.
@@ -132,3 +133,162 @@ o.	Paham & taat dengan peraturan dan hukum yang berlaku.
 
 
 
+Apakah (What is) ada istilah khusus dalam dunia hackig? 
+Ada beberapa istilah khusus yang perlu diketahui diantaranya adalah :
+
+a.	Hack Value adalah istilah yang digunakan antar hacker bahwa usaha hacking 
+terhadap sebuah sistem komputer adalah sepadan (worthed).
+
+b.	Vulnerability adalah kelemahan sistem komputer baik dari sisi desain, 
+kesalahan implementasi sehingga terjadi Insiden Keamanan Informasi.
+
+c.	Exploit adalah source code atau mekanisme serangan pada sistem komputer 
+terkait dengan vulnerability tertentu.
+
+d.	Payload adalah bagian dari exploit source code yang hasilkan tindakan 
+jahat seperti penghapusan data, pembuatan backdoor serta pengambil alihan komputer.
+
+e.	Zero Day Attack adalah exploit dari kelemahan aplikasi komputer dimana 
+software developernya belum merilis patch-nya.
+
+f.	Daisy Chainning adalah perolehan akses ilegal pada suatu jaringan 
+dan atau komputer yang digunakan untuk mendapatkan akses ilegal pada jaringan 
+dan atau komputer yang berisi informasi tertentu.
+
+g.	Doxing adalah menyebarluaskan informasi pribadi seseorang di internet 
+berdasarkan hasil pencarian di database publik dan sosial media.
+
+h.	Bot adalah aplikasi yang dapat di kontrol secara jarak jauh (remote) 
+untuk menjalankan tugas-tugas atau perintah tertentu.
+
+
+
+Dimana terjadinya (Where is) ancaman terhadap Keamanan Informasi? 
+Ada beberapa lokasi terjadinya proses ekploitasi kelemahan sistem komputer, 
+diantaranya adalah sebagai berikut :
+
+a.	Jaringan Komputer (Networking), serangan sniffing, spoofing, session hijacking, 
+man-in-the-middle attack, denial-of-service attack, DNS/ARP Poissoning, 
+firewall / IDS attack, botnet, dsb.
+
+b.	Komputer (Operating System), serangan berupa malware/virus/worm, password attack, 
+backdoor attack, escalation privilege, footprint, dsb.
+
+c.	Aplikasi, serangan berupa buffer overflow, sql injection, cryptography attack, 
+authentication attack, improper data input / error handling, dsb.
+
+d.	Mobile Attack, penggunaan perangkat mobile menjalankan aplikasi bisnis 
+dan personal seringkali mengabaikan faktor keamanan informasi.
+
+e.	Cloud Attack, user dalam sebuah cloud publik berpotensi melakukan serangan 
+ke dalam sistem cloud secara umum.
+
+
+
+Mengapa (Why) diperlukan seorang Ethical Hacker di suatu organisasi? 
+Seorang Ethical Hacker (White Hacker) bertanggung jawab menjamin (quality assurance) 
+dan penanganan (probem solver) Insiden Keamanan Informasi. 
+
+Ada 2 petugas penting dalam sebuah organisasi TIK yaitu :
+
+a.	Chief Information Officer (CIO), petugas yang bertanggung jawab atas berlangsungnya 
+layanan TIK tanpa gangguan (24jam 7hari). Fungsi pokoknya adalah Creative (C), 
+Inovative (I) dan Availablity (A). CIO harus memastikan mekanisme fail over / load balancing 
+pada Networking dapat berjalan dengan baik. CIO memastikan mekanisme backup storage data 
+pada server dapat berjalan dengan baik. Selain itu CIO juga memastikan secara berkala 
+melakukan perawatan (bug fixing) pada sebuah aplikasi. 
+Pada Diskominfo Kabupaten Pati fungsi CIO dilaksanakan oleh bidang egovernent 
+dengan 2 seksi didalamnya yaitu seksi infrastruktur dan seksi aplikasi. 
+Bisa dianalogikan dalam sebuah pabrik petugas CIO (Bidang Egov) sebagai produsennya
+(bidang yang menghasilkan produk).
+
+b.	Chief Information Security Officer (CISO), petugas yang bertanggung jawab 
+secara menyeluruh terhadap Keamanan Informasi suatu organisasi terkait tata kelola, 
+keamanan fisik (cctv, fingerscan, dsb) serta keamanan logis (security policy firewall 
+pada networking / application, dsb). Fungsi pokoknya  adalah Confidentiality (C), 
+Integrity (I) dan Authorization (A). Seorang CISO harus melakukan Vulnerability Assesment 
+(LAN, WLAN dan Aplikasi), Penetration Testing (exploit vulnerability), Security Audit 
+(security policy & procedure) &  Manajemen Insiden Keamanan Informasi (Incident Handling). 
+Pada Diskominfo Kabupaten Pati fungsi CISO dilaksanakan oleh bidang persandian 
+dengan 2 seksi di dalamnya yaitu seksi tata kelola persandian dan seksi operasional persandian. 
+Bisa dianalogikan dalam sebuah pabrik petugas CISO (Bidang Persandian) sebagai pengawas
+(bidang yang melakukan audit kualitas dari produk & tidak dalam 1 bidang dg produsen).
+
+
+
+Kapan (When) dimulai “Security Awareness” dan tata kelola Keamananan Informasi yang baik? 
+Jawabannya adalah saat ini juga, sebab ancaman kejahatan siber semakin meningkat dengan 
+menggunakan metode dan teknologi yang makin canggih. 
+
+Bagi pemerintah Indonesia ada beberapa regulasi terkait Keamanan Informasi 
+yang wajib dilaksanakan yaitu :
+a.	Permenkominfo No 26 Tahun 2007 (ID Sirtii / Incident Handling).
+b.	Permenkominfo No 41 Tahun 2007 (Tata Kelola TIK).
+c.	Permenkominfo No 4 Tahun 2016 (Sistem Manajemen Pengamanan Informasi / ISO27001).
+d.	Perka Lemsaneg No 7 Tahun 2017 (Tupoksi Persandian)
+a.	Perpres No 53 Tahun 2017 (Badan Siber dan Sandi Negara atau BSSN 
+yang merupakan gabungan antara Lemsaneg & Direktorat Keamanan Informasi 
+Kementerian Komunikasi dan Informatika). 
+
+
+
+Kesimpulan terkait Certified Ethical Hacker (CEH) adalah sebagai berikut :
+
+a.	CEH bukan hanya "Defensive Network Security"
+b.	CEH bukan hanya "Security Analysis and Manajement"
+c.	CEH bukan hanya "Security Penetration Testing"
+
+d.	CEH adalah "Offensive Security" yang berisi pemahaman ancaman keamanan 
+informasi secara menyeluruh dengan melakukan simulasi serangan secara bertahap 
+dan sistematis seperti yang dilakukan oleh seorang “hacker” secara langsung.
+
+e.	“Security is not a product, security is a process” artinya Keamanan Informasi 
+bukan sebuah produk cepat saji yang setelah diterapkan akan dapat menjamin 
+Keamanan Informasi untuk selamanya, tapi keamanan informasi adalah sebuah proses 
+berkelanjutan yang perlu dievaluasi dan diperbaharui sesuai perkembangan teknologi 
+Keamanan Informasi yang terbaru. 
+
+f.	Perlu peningkatan kemampuan secara berkelanjutan seorang Chief Information 
+Security Officer (CISO) melalui pelatihan dan sertifikasi internasional 
+agar selalu update dengan ancaman terbaru terkait Keamanan Informasi.
+
+
+
+
+Saran tindak lanjut bagi Pemerintah Kabupaten pati adalah sebagai berikut :
+
+a.	Diskominfo Kabupaten  Pati melalui bidang persandian perlu melakukan sosialisasi 
+Keamanan informasi (security awareness) pada Pimpinan (Kadinas, Kabid, Kasi) 
+serta staf teknis TIK seluruh OPD Kabupaten Pati.
+
+b.	Diskominfo Kabupaten Pati melalui bidang persandian perlu membuat 
+Aplikasi Pengamanan Informasi Bersandi ke perangkat komunikasi yang terkait 
+pendistribusian informasi khusus (diklasifikasikan).
+
+c.	Diskominfo Kabupaten Pati melalui bidang persandian perlu melakukan secara berkala  
+”Penetration Testing” jaringan komputer LAN / W LAN seluruh OPD Kabupaten Pati, 
+website/domain patikab.go.id, serta aplikasi dan server di seluruh OPD Kabupaten Pati 
+untuk mengetahui kelemahan (vulnerability) Keamanan Informasi serta memberikan 
+rekomendasi tahapan / langkah peningkatan Keamanan Informasi.
+
+d.	Diskominfo Kabupaten Pati melalui bidang persandian perlu meningkatkan kemampuan 
+SDM TIK di bidang persandian dengan  mengikuti Sertifikasi Teknis Internasional terkait 
+Keamananan Informasi, diantaranya Certified Information Security Manager (CISM), 
+Certified Information Security Auditor (CISA), Certified Information Systems Security 
+Professional (CISSP), Certified Chief Information Security Officer (CCISO), 
+Mikrotik Certified Network Assosiate (MTCNA), dsb.
+
+e.	Diskominfo Kabupaten Pati melalui bidang persandian perlu membuat regulasi berupa 
+Perbup terkait Informasi yang diklasifikasikan dan Perbup terkait Tata Kelola serta 
+Penanganan Insiden Keamanan Informasi. Adanya regulasi tersebut dapat dijadikan sebagai 
+payung  hukum dari Tim Keamanan Informasi di Kabupaten Pati. Selain itu perlu juga
+direvisi Perbub terkait SOTK Diskominfo Kabupaten Pati agar bisa menyesuaikan dengan
+perkembangan regulasi baru dan kemajuan teknologi keamanan informasi.
+
+
+
+Somoga Bermanfaat,
+
+Best Regards,
+
+Bayu S.
