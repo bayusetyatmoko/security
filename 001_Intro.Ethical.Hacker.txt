@@ -6,7 +6,7 @@ Author : Bayu S.
 Pengantar terkait ethical hacker,
 Diadopsi dari modul Certified Ethical Hacker - EC Council.
 
-Materi Certified Ethical Hacker (CEH) 
+Adapun materi Certified Ethical Hacker (CEH) 
 sebanyak 18 Modul adalah sebagai berikut :
 a.	Modul Introduction to Ethical Hacking (Hari 1).
 b.	Modul Footprinting and Reconnaissance (Hari 1).
@@ -27,6 +27,8 @@ p.	Modul Evading IDS, Firewalls, and Honeypots (Hari 5).
 q.	Modul Cloud Computing (Hari 5).
 r.	Modul Cryptography (Hari 5).
 s.	Online Exam CEH (Hari 5) - 125 Soal Selama 4 Jam 
+
+
 
 Siapakah (Who is) Hacker? 
 Hacker adalah seorang yang mempunyai kemampuan TIK yang mendalam 
@@ -70,4 +72,63 @@ h.	Hacktivist adalah seseorang yang melakukan hacking pada sistem komputer
 pada sebuah negara atau perusahaan sebagai bentuk protes.
 
 
-.....
+
+Bagaimanakah cara menjadi seorang (How to be) “Real Hacker”? 
+Banyak artikel tekait cara menjadi seorang hacker yang mumpuni 
+dan memiliki budaya hacking yang baik. Salah satunya adalah 
+tulisan dari Eric S. Raymond seorang aktivis penggiat Open Source 
+(silahkan baca di http://www.catb.org/esr/faqs/hacker-howto.html). 
+
+Beberapa skil teknis dan non-teknis yang dibutuhkan 
+untuk menjadi seorang hacker adalah :
+
+a.	Pemahaman mendalam terkait “Operating System” baik secara konsep dasar, 
+arsitektur serta teknologi softwarenya. Diantaranya adalah Linux, Macintosh, 
+Windows, Unix, BSD, dsb.
+
+b.	Pemahaman mendalam terkait “Computer Networking” baik secara konsep dasar, 
+teknologi serta hardware & softwarenya. Diantaranya adalah TCP/IP, OSI Layer, 
+Routing, DNS, ARP, VLAN, Subneting, dsb. 
+
+c.	Pemahaman mendalam terkait “Security & Cryptography” baik secara konsep dasar, 
+tata kelola, teknologi serta hardware dan softwarenya. Diantaranya adalah 
+RSA, IDS, IPS, SSL, Firewall, Security Policy, dsb.
+
+d.	Pemahaman mendalam terkait “Programming language” baik secara konsep dasar, 
+syntax, algoritma serta teknologinya. Diantaranya adalah HTML (web), C++ (exploit), 
+assembly(malware), phyton, java, perl, dsb.
+
+e.	Pemahaman mendalam terkait “Database” baik secara konsep dasar, SQL syntax serta 
+teknologinya. Diantaranya adalah mysql, posgresql, oracle, MS-SQL, mongodb, dsb.
+
+f.	Pemahaman mendalam terkait “Web Application Security” baik secara konsep dasar, 
+secure coding, serta teknologinya.  
+
+g.	Pemahaman terkait “Mobile & Cloud Security” baik secara konsep dasar, 
+teknologi serta hardware & softwarenya.
+
+h.	Pemahaman terkait “Digital Forensic & Reverse Engineering” baik secara konsep dasar, 
+teknologi serta hardware & softwarenya.
+
+i.	Pemahaman terkait “Tools Penetration Test” baik secara konsep dasar, syntax, 
+penggunaan yang tepat sasaran serta teknologinya. Diantaranya adalah wireshark, 
+tcpdump, nmap, kali linux, dsb.
+
+j.	Kemampuan berkomunikasi menggunakan “English Language” baik secara tulisan 
+maupun lisan dengan baik dan lancar.
+
+k.	Kemampuan “Quick Self Learning” dan kecepatan beradaptasi dengan perkembangan 
+teknologi TIK yang terbaru.
+
+l.	Kemampuan “Hard & Smart Working” dapat menyelesaikan masalah 
+(problem solver & persistent) dengan cepat dan tepat.
+
+m.	Kemampuan “Think Creative & Out of The Box” sanggup melihat sesuatu 
+dan berfikir dari berbagai sudut pandang.
+
+n.	Komitmen yang tinggi pada “Security Policy” suatu organisasi.
+
+o.	Paham & taat dengan peraturan dan hukum yang berlaku. 
+
+
+
