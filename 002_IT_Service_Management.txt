@@ -2,4 +2,282 @@
 Author : Bayu S.
 Doc Version : 1.0
 Release : 02-11-2017
-Source : https://github.com/bayusetyatmoko/security/blob/master/001_Intro.Ethical.Hacker.txt
+Source : https://github.com/bayusetyatmoko/security/blob/master/002_IT_Service_Management.txt
+
+
+"IT Service Management Diskominfo & Kompetensi SDM PNS"
+Oleh : Bayu S. (Diskominfo Kab Pati)
+
+
+Awal tahun 2017 diwarnai lahirnya dinas baru "Diskominfo",
+dg harapan tidak spt PDE / Dishubkominfo yang kurang berhasil,
+krn sibuk dg urusan yg bukan "core bussiness" (urusan wajib).
+
+Beberapa daerah yang maju PDE / Dishubkominfonya, 
+karena didukung SDM TIK yg mumpuni dan fokus kelola TIK.
+
+Apa pelajaran yang bisa kita petik?
+Kompetensi apa yang perlu dimiliki organisasi utk kelola TIK?
+Bagaimana "Digital Organization" survive ditengah perubahan?
+
+
+Beberapa layanan sebuah "Digital Organization" adalah sbb:
+(1).Internet Service Provider (ISP / Jasa Koneksi Internet)
+- VSAT / WLAN / Wimax Link Access
+- MetroNet / IP-VPN / Fiber Optic Link Access
+- Data Center (DC), Disaster Recovery Center (DRC)-ISO27001
+- Layanan Ticket Support (Pengaduan Gangguan)
+
+(2).Software Developer (Jasa Pembuatan Software)
+- Web Developmet & Database Designer
+- Mobile Development & API Development
+- System Analysis & Designer
+- Project Management Support (Pengaduan Bug Aplikasi)
+
+(3).Data-Driven Developer (Jasa Pengolahan Data)
+- Open Data & ESB Development
+- Iot & Big Data Development
+- Media Center Support (Pengaduan Masyarakat)
+
+(4).Information Security Consultant (Jasa Keamanan Informasi)
+- Risk Analysis dan Risk Management
+- Penetration Test, Counter Measure & Cryptogragphy  
+- Information Security Incident Management (CSIRT)
+- Operation & Business Continuity Management
+- System Aquisition, Development & Maintenance Management
+- Security Policies, Access Control & Physical Security
+- Human Resouces, Supplier & Organisation Security
+
+
+Adopsi konsep "c-suite executive" pada "Digital Corporate",
+jika dilaksanakan dalam organisasi Pemerintah Daerah,
+kurang lebih dapat digambarkan sebagai berikut :
+
+(1).CEO = Chief Executive Officer (Kepala Daerah)
+(2).COO = Chief Operation Officer (Sekretaris Daerah)
+----(2.1).CIO = Chief Information Officer (Kepala Diskominfo)
+----(2.2).CFO = Chief Financial Officer  (Kepala BPKAD)
+----(2.3).CHRO = Chief Human Resources Officer (Kepala BKPP)
+----
+
+
+Fungsi2x strategis dalam organisasi Diskominfo,
+sesuai konsep "c-suite executive" pada "Digital Corporate",
+secara sederhana dapat digambarkan sebagai berikut :
+
+(1).CIO = Chief Information Officer (Kepala Diskominfo)
+----(1.1).COO = Chief Operation Officer (Sekretaris Diskominfo)
+----(1.1.1).CFO = Chief Financial Officer (Bagian Keuangan)
+----(1.1.2).CHRO = Chief Human Resource Officer (Bagian Umpeg)
+----(1.2).CCO = Chief Communication Officer (Kabid IKP)
+----(1.2.1).CMO = Chief Marketing Officer (Seksi Humas)
+----(1.2.2).CAO = Chief Analytic Officer (Seksi PPID) 
+----(1.3).CTO = Chief Technology Officer (Kabid Egov)
+----(1.3.1).CiO = Chief Infrastructure Officer (Seksi Infrastruktur)
+----(1.3.1).CiO = Chief Integration Officer (Seksi Aplikasi)
+----(1.4).CISO = Chief Information Security Officer (Kabid Sandi)
+----(1.4.1).CRO = Chief Risk Officer (Seksi Tata Kelola)
+----(1.4.1).CSO = Chief Security Officer (Seksi Operasional)
+
+
+Adapun kompetensi yang dibutuhkan organisasi Diskominfo,
+sesuai konsep "c-suite executive" pada "Digital Corporate",
+secara sederhana dapat diuraikan sebagai berikut :
+
+(1).Kepala Diskominfo : Sertifikasi CIO, COBIT
+
+(1.1).Sekretaris Diskominfo : Sertifikasi CIO, COBIT
+(1.1.1).Bagian Keuangan : Sertifikasi CIO
+(1.1.2).Bagian Umpeg : Sertifikasi CIO
+
+(1.2).Bidang IKP : Sertifikasi CIO, COBIT
+(1.2.1).Seksi Humas : Sertifikasi CIO, Jurnalistik
+(1.2.2).Seksi PPID : Sertifikasi CIO, OpenData, BigData
+-- Role Model Adopsi Perusahaan Pengolahan Data --
+
+(1.3).Bidang Egov : Sertifikasi CIO, COBIT
+(1.3.1).Seksi Infrastruktur : Sertifikasi CIO, CDCP, CDFOM
+-- Role Model Adopsi Perusahaan ISP/DC/DRC --
+(1.3.2).Seksi Aplikasi : Sertifikasi CIO, PMP, API, Tester
+-- Role Model Adopsi Perusahaan Software Developer --
+
+(1.4).Bidang Persandian : Sertifikasi CIO, COBIT, ISO27001
+-- Role Model Adopsi Perusahaan Keamanan Informasi --
+(1.4.1).Seksi TataKelola : Sertifikasi CIO, CISSP, CISA
+(1.4.2).Seksi Operasional : Sertifikasi CIO, CEH, ENSA, 
+EDRP, ECSP, ECIH, LPT, CCISO, CHFI, ECSS, ECSA, ECDR 
+
+
+Quoted,
+“There are only two kinds of companies,
+Those that were hacked
+and those that don’t yet know they were hacked.”
+
+
+Untuk ukuran Pemda mungkin tidak bisa seideal diatas,
+paling tidak mendekati atau mengikuti standarisasi
+sebuah "Digital Goverment' itu sudah cukup baik.
+
+
+Saat managemen Diskominfo sdh adopsi "Digital Goverment",
+barulah logis untuk mengelola ekosistem TIK diantaranya :
+
+(1).Ekosistem Smart Goverment : 
+- interaksi homogen antar OPD dalam penerapan e-Goverment
+di seluruh OPD pada sebuah kota/kabupaten/provinsi
+
+(2).Ekosistem Smart City/Regency/Provinve :
+- interaksi multi stake-holder antara pemerintah, swasta,
+dan masyarakat pada sebuah kota/kabupaten/provinsi
+
+(3).Ekosistem Digital Industry (Industri Kreatif) :
+- interaksi multi stake-holder antara pemerintah, swasta,
+masyarakat dan developer startup lokal (technopreneur).
+
+
+Bagaimanakah interaksi multi stake-holder dilakukan ?
+Forum group diskusi / koordinasi yg sesuai regulasi ?
+Siapa yg terlibat dlm interaksi multi stake-holder ?
+
+
+Di pemerintahan, beberapa OPD intensif gunakan TIK,
+dan jika dilakukan analisa resiko pada OPD tersebut
+maka terganggunya layanan TIK akan berdampak besar.
+Hemat saya ada 7 OPD (diluar Diskominfo) yang perlu
+mendapatkan prioritas layanan TIK, bahkan diijinkan
+mempunyai lokal backup di OPD (misal backup server,
+backup akses internet beda ISP, dsb). OPD tsb yaitu : 
+a. LPSE,ULP & SETDA (layanan lelang)
+b. Dinkes & RSUD (layanan bpjs, spgdt)
+c. Disdukcapil (layanan e-ktp)
+d. Dpmptsp (layanan perijinan)
+e. Dpkad (layanan PBB,BPHTB,Simda,dll)
+f. BKPP (layanan kepegawaian,absensi)
+g. BPBD (layanan bencana alam)
+
+
+Di swasta, industri kreatif atau manufaktur sangat
+intensif menggunakan TIK dalam proses bisnisnya.
+Di masyarakat, organisasi yang intensif gunakan TIK
+diantaranya adalah Sekolah SMK TIK, Universitas, dsb.
+
+
+Beberapa regulasi yang digunakan sebagai dasar hukum 
+pembentukan "Dewan TIK Nasional" (WanTikNas) atau 
+"Dewan TIK Kabupaten" (WanTikKab) yang bisa mewadahi
+interaksi antara Pemerintah, Swasta dan Masyarakat
+secara formal adalah sbb :
+a.Keppres No 20 Th 2006 ttg Dewan TIK Nasional  
+b.Perbup Sragen No 11 Th 2008 ttg Pendayagunaan TIK  
+
+
+Adapun komposisi keanggotaan suatu "Dewan TIK"
+(Modifikasi Kab Sragen) adalah sebagai berikut :
+a.Tim Pengarah
+- Ketua = Bupati
+- Wakil Ketua = Wakil Bupati
+- Ketua Harian = Sekda
+- Anggota = Semua Asisten Sekda
+- Anggota = Kepala Bappeda
+- Anggota = Kepala DPPKAD
+- Anggota = Kepala Dinkes & RSUD
+- Anggota = Kepala LPSE & ULP
+- Anggota = Kepala Disdukcapil
+- Anggota = Kepala Dpmptsp
+- Anggota = Kepala BKPP
+- Anggota = Kepala BPBD
+
+b.Tim Pelaksana
+- Ketua = Kepala Diskominfo
+- Sekretaris = Sekretaris Diskominfo
+- Anggota = Kabid IKP
+- Anggota = Kabid Egov
+- Anggota = Kabid Persandian
+- Anggota = Semua Kasi Diskominfo
+- Anggota = Semua Staf Teknis TIK
+
+c. Tim Kelompok Kerja 
+(SK Dibuat Ketua Harian, bisa dari staf PNS,
+swasta, masyarakat, sekolah/univ, dsb) 
+- Pokja 1 = ...
+- Pokja 2 = ...
+- Pokja 3 = ...
+
+
+Dengan adanya "Dewan TIK" di Kota/Kab/Prov,
+diharapkan sering terjadi Forum Grup Diskusi (FGD)
+antara pemerintah, swasta, masyarakat, akademisi, dsb.
+Yang akan menghasilkan strategi realsasi smartcity
+dengan dukungan penuh perencanaan dari Bappeda dan
+dukungan anggaran keuangan dari DPPKAD, sehingga
+dapat percepat sinergi antar OPD utk kemajuan TIK.
+
+
+Besar harapan DAK terkait "Smartcity" bisa direncanakan
+dengan baik dan tepat sasaran. Salah satu kuncinya
+adalah bagaimana merawat ekosistem "Smartcity" secara
+berkelanjutan dan jangka panjang (sustainability).
+
+
+Karena ekosistem "Smartcity" adalah multi stake-holder,
+maka untuk merawatnya perlu dilakukan secara bersama,
+tidak bisa hanya diserahkan kepada Diskominfo saja.
+Maka dibutuhkan kelembagaan semacam "WanTikNas" 
+namun dengan lingkup kecil kab/kota/prov untuk merumuskan
+strategi "Smartcity" secara komprehensif (tdk parsial),
+yang akan didukung secara bersama untuk implementasinya.
+Untuk itu perlu pemerintah pusat memberi penguatan
+dengan regulasi terkait "WanTik" kab/kota/prov,
+baik secara kelembagaan & alokasi anggaran operasional
+untuk perbanyak Forum Grup Diskusi (FGD) antara
+pemerintah, swasta dan masyarakat.
+
+
+Selain itu perlu juga penguatan organisasi Diskominfo,
+sebagai pelaksana untuk merealisasikan "SmartCity".
+Salah satunya jangan membiarkan polemik yang panjang
+terkait mana urusan Diskominfo dan mana yang bukan,
+jangan gara2x ada gulanya semua energi terbuang sia2x
+urusi urusan yang lebih tepat diurusi OPD lain.
+Perlu kompetensi managerial pada struktural Diskominfo 
+menuju kearah "Digital Goverment" harapannya bukan
+hanya staf teknis saja yangg punya kompetensi.  
+Dimulai surat himbauan mengikuti sertifikasi CIO,
+hingga persyaratan wajib struktural Diskominfo memiliki
+sertifikasi CIO.
+
+
+Tanpa kelembagaan Diskominfo yang baik dan merawat
+ekosistem "Smartcity" yang berkelanjutan, maka konsep
+"Smartcity" hanya berujung pada pemborosan uang negara.
+
+
+Quoted, 
+"Smart Cities, A Tool For Smart Government 
+Or An Industrial Trick ?" 
+
+
+Melihat potensi urusan Diskominfo yang strategis
+dan kompleks untuk menjawab tantangan perubahan jaman,
+terutama kemajuan TIK yang cepat, maka sudah waktunya
+mengembalikan Diskominfo kepada "Core Bussiness"nya,
+sesuai dengan Permenkominfo No 14 Tahun 2016 tentang
+"Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi
+dan Informatika". 
+
+
+Marilah secara serius, "Follow The Rules,
+Jangan sekedar, "Follow The Money" ...    
+
+
+Sumber Refferensi :
+(1).Building Digital Government, Springer (2017)
+(2).CIOs and the Digital Transformation, Springer (2017)
+(3).Smart Cities, Wiley (2017)
+(4).The Big Shift In IT Leadership, Wiley (2015)
+(5).The CIO paradox, Martha Heller (2013)
+
+
+Semoga Bermanfaat,
+Best Regards,
+Bayu S.
