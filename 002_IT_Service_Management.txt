@@ -1,4 +1,4 @@
-# IT Service Management Diskominfo
+# IT Service Management
 Author : Bayu S.
 Doc Version : 1.0
 Release : 02-11-2017
