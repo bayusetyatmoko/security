@@ -1,0 +1,18 @@
+# Smart Cyber Security
+Author : Bayu S.
+Doc Version : 1.0
+Release : 10-12-2017
+Source : https://github.com/bayusetyatmoko/security/blob/master/003_Smart_Cyber_Security.txt
+
+
+"Smart Cyber Security & Smart City"
+Oleh : Bayu S. (Diskominfo Kab Pati)
+
+
+
+
+
+
+Refference :
+https://www.pwc.com/us/en/cybersecurity/broader-perspectives/smart-cities.html
+
