@@ -4,8 +4,8 @@ Kumpulan artikel & tutorial terkait Kemananan Informasi,
 diantaranya adalah sebagai berikut :
 1. Intro Ethical Hacker
 2. IT Service Management
-3. ...
-
+3. Smart Cyber Security.txt
+4. ...
 
 Semoga Bermanfaat :)
 
