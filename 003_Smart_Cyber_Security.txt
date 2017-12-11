@@ -1,18 +1,285 @@
-# Smart Cyber Security
+# Smart Cybersecurity
 Author : Bayu S.
 Doc Version : 1.0
 Release : 10-12-2017
 Source : https://github.com/bayusetyatmoko/security/blob/master/003_Smart_Cyber_Security.txt
 
 
-"Smart Cyber Security & Smart City"
+"Smart Cybersecurity & Smart City"
 Oleh : Bayu S. (Diskominfo Kab Pati)
 
+Apakah makna fundamental "Smart Cybersecurity"?
+Apakah makna fundamental "Smart City"?
+Apakah kota "Smart" pasti aman di dunia "Cyber"?
+Apakah sama "Smart Citra" dengan "Smart City"?
+Adakah "benchmark" internasional "Smart City"?
+
+Apakah "Command Center" adalah "Smart City"?
+Apakah "Data Center" adalah "Smart City"?
+Apakah Intranet "Fiber Optic" adalah "Smart City"?
+Apakah Internet Of Things (IoT) adalah "Smart City"?
+Apakah banyaknya "Aplikasi eGov" adalah "Smart City"?
+
+Perlukah "Smart Goverment" menuju "Smart City"?
+Perlukah "Smart Economy" menuju "Smart City"?
+Perlukah "Smart Environment" menuju "Smart City"?
+Perlukah "Smart Mobility" menuju "Smart City"?
+Perlukah "Smart Citizen" menuju "Smart City"?
+Perlukah "Smart Living" menuju "Smart City"?
 
 
+Tulisan ini diharapkan dpt menjawab pertanyaan2x diatas,
+terutama Kab/Kota/Prov yang sedang menuju "Smart City".
 
+Beberapa Kab/Kota/Prov mengklaim sebagai "Smart City",
+waktulah yang akan membuktikan kualitasnya (sustainable),
+setelah investasi besar, apa semakin meningkat / menurun,
+disinilah bedanya mana yg "Smart City" dg "Smart Citra".
+
+Jika "Smart City" bertujuan untuk memperbesar "Citra", 
+bukan bertujuan untuk meningkatkan "Kualitas Citizen", 
+maka tulisan ini "tidak tepat" untuk anda.
+
+
+Secara internasional konsep "smart city" tidak statis,
+melainkan selalu berubah mengikuti "perkembangan jaman",
+dan "kebutuhan manusia" yang menempati sebuah negara,
+namun beberapa konsep dasarnya masih tetap sama.
+
+Definisi "Smart Sustainable City" (oleh ITU-T),
+"A smart sustainable city (SSC) is an innovative city 
+that uses information & communication technologies (ICTs) 
+and other means to improve quality of life, 
+efficiency of urban operation and services, 
+and competitiveness, while ensuring that it meets 
+the needs of present and future generations 
+with respect to economic, social & environmental aspects" 
+
+Sumber :
+https://www.itu.int/en/ITU-T/focusgroups/ssc/Documents/Approved-Deliverables/TR-Definitions.docx
+
+
+Secara internasional dikenal standar ISO 37120:2014,
+tentang "Sustainable development of communities 
+indicators for city services and quality of life",
+dan banyak negara sdh mulai menerapkan ISO 37120
+sebagai stndarisasi tata kelola "Smart City".
+
+Sumber :
+https://www.iso.org/standard/62436.html
+
+
+Beberapa kali konsep "Smart City" mengalami
+evulusi perubahan fokus atau centric yaitu sbb :
+
+(1).Smart City 1.0 (Technology Driven)
+Fokus smart city msh pada pemanfaatan 
+teknologi terbaru sebagai pengganti proses
+manual menjadi proses berbasis digital
+(Technology Centric).
+
+(2).Smart City 2.0 (Technology Enabled)
+Fokus smart city sdh mulai pada ekosistem TIK
+dimana teknologi berfungsi untuk mengaktifkan
+(enabler) seluruh komponen ekosistem TIK
+(Ekosistem TIK Centric)
+
+(3).Smart City 3.0 (Citizen Co-Creation)
+Fokus smart city sdh bergeser kepada manusia
+yang menjadi warga dalam suatu kota/kab/prov
+mulai tampilan website yang fokus pada "citizen"
+hingga peningkatan kualitas hidup seluruh "citizen"
+(Citizen Centric)
+
+
+Terlihat Teknologi TIK hanyalah salah satu faktor
+penting dalam "Smart City" tapi bukan satu-satunya
+faktor penentu keberhasilan pelaksanaan "Smart City".
+
+Secara internasional ada lembaga yang melakukan
+"Benchmark" atau pemeringkatan "Smart City" untuk
+periode Tahun 2016-2017 (192 indicators) sbb :
+
+1.London, 2.New York, 3.Tokyo, 4.San Francisco, 
+5.Boston, 6.Los Angeles, 7.Singapore, 8.Toronto, 
+9.Paris 10.Vienna, 11.Seoul, 12.Amsterdam, 
+13.Barcelona, 14.Sydney, 15.Munich, 28.Dubai, 
+30.Beijing, 90.Mumbai, 92.Kuala Lumpur, 218.Jakarta
+
+Sumber :
+http://www.innovation-cities.com/innovation-cities-index-2016-2017-global/9774
+
+
+Pertanyaan selanjutnya apakah indikator / ciri2x
+kota/kab/prov "layak" disebut kota yang inovatif,
+bahkan "pantas" mendapat predikat "Smart City"? 
+
+Riset Boyd Cohen (2012) sbg peneliti smart city,
+menghasilkan Diagram "Smart City" Wheel,
+yang berisi 6 indikator penting "Smart City" sbb :
+
+(1).Smart Goverment,
+Adanya akuntabilitas dan keterbukaan pada semua
+kebijakan yang diambil oleh pemerintah.
+Memiliki 3 sub domain :
+(1.a).Infrastruktur ICT & eGov yang memadai
+(1.b).Online services (supply & demmand) yang baik
+(1.c).Open government (melalui open data) 
+
+(2).Smart Economy,
+Adanya dukungan teknologi utk meningkatkan ekonomi
+lokal agar dapat bersaing dengen ekonomi global.
+Memiliki 3 sub domain :
+(2.a).Produktifitas yang meningkat
+(2.b).Opportunity (peluang usaha) bagi enterpreunership
+(2.c).Hubungan bisnis lokal & global yang baik
+
+(3).Smart Environment,
+Adanya “green urban planning” yang berbasiskan TIK.
+Memiliki 3 sub domain :
+(3.a).Smart Building (bangunan pintar berbasiskan teknologi TIK)
+(3.b).Green Urban Planning (tata ruang berwawasan lingkungan)
+(3.c).Resources Management (tata kelola “green energy”).
+
+(4).Smart Mobility 
+Adanya efisiensi dan layanan transportasi publik berkualitas.
+Memiliki 3 sub domain :
+(4.a).Clean Transportation (transportasi rendah kadar polusi)
+(4.b).Mixed Model Access (integrasi berbagai model tansportasi)
+(4.c).Integrated ICT (integrasi sistem lalu lintas, dsb)
+
+(5).Smart Citizen 
+Pengembangan SDM yang menghasilkan inovasi TIK berkualitas
+Memiliki 3 sub domain :
+(5.a).Education (perbaharui pengetahuan TIK terkini)
+(5.b).Inclusive Society (komunitas masyarakat saling berbagi ilmu)
+(5.c).Creativity (pengembangan kreativitas warga)
+
+(6). Smart Living 
+Peningkatan kualitas hidup warga melalui pemanfaatan TIK
+Memiliki 3 sub domain :
+(6.a).Healthy (jaminan terhadap kesehatan warga)
+(6.b).Safety (jaminan terhadap keselamatan jiwa warga)
+(6.c).Happiness (kebahagiaan warga menjalani hidup)
+
+
+Pertanyaan berikutnya, adakah tahapan yang harus 
+dilalui sebuah kab/kota/prov utk menuju "Smart City"?
+
+Ada 5 tahapan untuk menuju "Smart City" yaitu :
+("maturity level of smart city")
+
+(1).Tahapan Adhoc (Cirinya msh sendiri2x)
+Perencanaan disusun tiap bagian organisasi 
+dengan rencana kerja sendiri2x tiap bagian.
+
+(2).Tahapan Opportunistic (Cirinya Intensif/Fokus)
+Perencanaan disusun bersama antar bagian organisasi,
+pimpinan (stake holder) menjamin adanya kesinambungan 
+antara strategi dengan rencana kerja yg disusun.
+
+(3).Tahapan Repeatable (Cirinya Integrasi)
+Rencana kerja yang berulang tiap tahun perlu 
+di integrasikan antar bagian organisasi, 
+dokumentasi secara resmi strategi, proses & teknologi,
+pimpinan (stake horder) secara aktif ikut terlibat.
+
+(4).Tahapan Managed (Cirinya Operasional Baku)
+Secara resmi alur kerja / alur data terbentuk,
+teknologi terbaru digunakan, standarisasi dipatuhi,
+manajemen kinerja berdasarkan peningkatan hasil,
+anggaran yang digunakan, investasi TIK dan
+struktur organisasi yang solid.
+
+(5).Tahapan Optimized (Cirinya Kesinambungan)
+Kesinambungan proses kerja berjalan dg baik,
+terus-menerus memperbaiki strategi implementasi TIK,
+penguatan otonomi bidang meski dlm bingkai integrasi,
+pencapaian hasil yang berlipat dari tahun sebelumnya.
+
+
+Pertanyaan yang lain, apakah setelah semua tahapan
+menuju "Smart City" dilalui dengan baik dan benar,
+apakah ada potensi ancaman di dunia siber?
+
+Saat tidak terhubung ke internet (kondisi offline),
+potensi ancaman kerusakan pd sistem komputer terbatas, 
+paling terserang virus lokal, bad sector HDD, dsb.
+
+Namun saat terhubung ke internet (kondisi online),
+potensi ancaman kerusakan sistem komputer semakin besar.
+Baik ancaman melalui layer network (data capture),
+melalui layer aplikasi (bypass encryption),
+melalui kernel operating system (bypass authentication),
+bahkan melalui "social engineering" (penipuan).
+
+Saat data terhubung ke dunia siber (jaringan internet)
+melalui berbagai e-aplikasi, bermacam sensor IoT,
+sistem manajemen lalu lintas berbasis online, 
+bahkan sistem "Grid Electricity" berbasis online,
+maka kota "Smart" harus bersiap dg ancaman dunia siber.
+
+
+Sebagaimana kita ketahui bahwa seringkali 
+"kenyamanan" berbanding terbalik dengan "keamanan".
+
+Jangan sampai terjadi investasi "smart city" yg besar,
+akan terbuang percuma karena sistem tdk bisa diakses,
+akibat tidak memperhitungkan faktor keamanan informasi.
+
+Maka Diagram "Smart City" Wheel (Desain Byod Cohen), 
+perlu disempurnakan dengan tambahan satu aspek penting 
+yang sering diremehkan dan diabaikan yaitu :
+
+(7).Smart Cybersecurity.
+Adanya "security awareness" (kepedulian thd keamanan
+informasi) pada semua orang (baik pejabat atau staf)
+di suatu lingkungan organisasi (pemerintah/swasta).
+Memiliki 7 sub domain :
+(7.a).Software Development (secure coding, desain s/d deploy)
+(7.b).Network Management (device patching, secure config)
+(7.c).O/S Management (kernel patching, secure config)
+(7.d).Operational Management (Backup, Restore, DRC)
+(7.e).Risk & Incident Management (Asses, Analys, Mitigation)
+(7.f).Policy & Access Control (Physical, System, App, Data)
+(7.g).Organization & Regulation (SOP, Reporting, Law)
+
+
+Demikian tulisan saya rangkum dari berbagai sumber,
+Semoga bisa menjawab pertanyaan dan kesalah pahaman,
+terkait "Smart City" di lingkungan Pemda (Kab/Kota/Prov).
+
+"Menunggu hujan rintik sore hari di Bandungan Semarang,
+sambil persiapan pulang kutunggu bis kearah Pati." 
 
 
 Refference :
-https://www.pwc.com/us/en/cybersecurity/broader-perspectives/smart-cities.html
+(1). The Emergence of the Urban Entrepreneur, 
+---- Boyd Cohen (2016)
 
+(2). The Way Out, Byod Cohen (2012).
+
+(3). Climate Capitalism, Boyd Cohen (2011).
+
+(4). http://datasmart.ash.harvard.edu/news/article/5-ways-cities-can-make-cybersecurity-a-top-priority-best-practices-from-lea
+(5). https://www.pwc.com/us/en/cybersecurity/broader-perspectives/smart-cities.html
+
+(6). https://github.com/bayusetyatmoko/security/blob/master/Smart_Cybersecurity.pdf
+(7). https://github.com/bayusetyatmoko/security/blob/master/SMKI_Pati_Full.pdf
+
+(8). https://www.itu.int/en/ITU-T/focusgroups/ssc/Documents/Approved-Deliverables/TR-Definitions.docx
+(9). https://www.iso.org/standard/62436.html
+(10).http://www.innovation-cities.com/innovation-cities-index-2016-2017-global/9774
+(11).https://smartcitiescouncil.com/resources/smart-city-index-master-indicators-survey
+
+(12).  https://www.fastcompany.com/user/boyd-cohen
+(13).  https://www.fastcompany.com/3038818/the-smartest-cities-in-the-world-2015-methodology
+(14).  https://www.fastcodesign.com/1680538/what-exactly-is-a-smart-city
+
+
+Quoted.
+“Smart City needs a lot of Smart and Innovative People”
+
+Semoga Bermanfaat,
+Best Regards,
+Bayu S.
