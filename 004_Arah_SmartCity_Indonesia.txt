@@ -1,0 +1,239 @@
+# Smart Cybersecurity
+Author : Bayu S.
+Doc Version : 1.0
+Release : 27-12-2018
+Source : https://github.com/bayusetyatmoko/security/blob/master/004_Arah_SmartCity_Indonesia.txt
+
+"Arah Smart City Indonesia"
+(Refleksi TIK Indonesia 2018
+dan Urgensi Smart CyberSecurity) 
+Oleh : Bayu S. 
+(Bid Persandian Diskominfo Kab Pati)
+
+Blm selaras kebijakan dari pusat,
+dg penerapan kebijakan di daerah,
+terjadi hampir di seluruh pemda,
+beberapa daerah TIK sangat maju,
+banyak yg baru mulai smartcity,
+seiring lahirnya Diskominfo (2017),
+sbg dinas baru di beberapa daerah.
+
+Menurut pengamatan saya,
+saat bimtek masterplan smarrcity,
+dari beberapa kali tahapan bimtek,
+yg dilaksanakan di pemkab pati,
+dg fasilitasi dari Kemenkominfo,
+saat penajaman dimensi smartcity,
+sedikit beda dg 6 dimensi cohen,
+yg jadi rujukan smartcity di dunia.
+
+Dimensi SmartCity Boyd Cohen,
+(1) Smart Government
+(2) Smart People
+(3) Smart Economy
+(4) Smart Living
+(5) Smart Environment
+(6) Smart Mobility
+
+Riset peringkat smartcity dunia,
+penilaiannya sudah memadukan
+antara konsep 6 dimensi cohen,
+dg konsep ISO 37120 yg dikenal
+sbg City In Motion Index (CIMI).
+
+Standar ISO 37120 dpt dilihat di,
+https://www.iso.org/standard/62436.html
+Notes :
+ISO 37120:2014
+Sustainable development of communities,
+Indicators for city services and quality of life.
+
+Adapun peringkat CIMI 2017,
+hasil penilaiannya bisa dilihat di,
+https://www.iese.edu/research/pdfs/ST-0471-E.pdf
+Notes :
+City Rangking Base on Cities in Motion Index (CIMI) 2017,
+(01) New York-United States
+(02) London-United Kingdom
+(03) Paris-France
+(04) Tokyo-Japan
+(05) Reykjavik-Iceland
+(06) Singapore-Singapore
+(07) Seoul-South Korea
+(08) Toronto-Canada
+(09) Hong Kong-China
+(10) Amsterdam-The Netherlands
+
+(12) Melbourne-Australia
+(87) Kuala Lumpur-Malaysia
+(90) Bangkok-Thailand
+(136) Jakarta-Indonesia
+(153) Riyadh-Saudi Arabia
+(164) Lagos-Nigeria
+(165) Karachi-Pakistan
+--- End Of Global City Rangking ---
+Sources :
+https://www.iese.edu/faculty-research/cities-in-motion/
+
+Peringkat CIMI 2017 Indonesia,
+di urutan 136 dari 165 menunjukkan
+banyak hal yg perlu diperbaiki
+terkait Strategi Smartcity Indonesia.
+
+Konsep Smarcity Indonesia,
+dlm hal ini kemenkominfo punya
+standar smarcity versi indonesia,
+modif dari standar internasional,
+adopsi dari konsep pak suhono (ITB),
+ITB sbg kampus teknik bisa ditebak
+arahnya lebih ke teknologi oriented
+(smartcity v1 - technology centric).
+
+Sebagai konsep pembanding,
+banyak penelitian di kampus UGM
+terkait SmartCity di jurnal ilmiah,
+salah satunya pak surahyo (UGM),
+UGM sbg kampus senior & universal,
+banyak pemikiran kampus UGM
+yg diterapkan oleh pemda di jogja,
+hasilnya strategi yg lebih membumi,
+strategi potensi ekonomis wisata,
+strategi mitigasi bencana alam,
+strategi technoprenuer umkm, dsb,
+arahnya lebih ke citizen oriented.
+(smartcity v2 - citizen centric).
+
+Tanpa harus mempertentangkan
+berbagai model konsep smartcity,
+kampus bisa saling berkolaborasi
+merumuskan konsep smartcity
+yg bisa diterapkan di Indonesia
+tp tetap adopsi standar internasional.
+
+Standar minim smartcity indonesia,
+perlu dirumuskan secara baku,
+utk cegah salah arah dr tujuan awal,
+tp tetap adaptif thd perubahan,
+akibat perkembangan teknologi TIK.
+
+Salah satu konsekuensi logis dari
+pemanfaatan aplikasi online dlm
+pengembangan smartcity di daerah
+adalah resiko terjadi insiden siber,
+akan semakin besar dan masif,
+yg dpt melumpuhkan sistem TIK
+shg terhentinya layanan publik.
+
+Kedepan urgensi cyber security
+tdk bisa diabaikan / diremehkan,
+dalam pengelolaan smartcity,
+sejak tahap rencana, proses,
+serta pengembangan smartcity,
+mengingat urgensinya bahkan sdh
+wajib jadi dimensi ke 7 smarcity,
+yaitu "smart cyber security".
+
+Kondisi security awareness,
+Indonesia (gov/ swasta / umum),
+dpt terlihat dari score / nilai
+Global Cybersecurity Index (CGI),
+laporan lengkapnya dpt dilihat di,
+https://www.itu.int/pub/D-STR-GCI.01-2017
+Notes
+Global Cybersecurity Index
+(GCI v2, 2017) Global Rank,
+(01) Singapore
+(02) United States of America
+(03) Malaysia
+(04) Oman
+(05) Estonia
+(06) Mauritius
+(07) Australia
+(08) Georgia
+(09) France
+(10) Canada
+
+(13) Republic of Korea
+(22) Thailand
+(32) China
+(69) Indonesia
+(161) Timor-Leste
+(163) Central African Republic
+(164) Equatorial Guinea
+--- End Of Global Cybersecurity Index ---
+Sources :
+https://www.itu.int/en/ITU-D/Cybersecurity/Pages/global-cybersecurity-index.aspx
+
+Peringkat CGI 2017 Indonesia
+di urutan 69 dari 164 menunjukkan
+banyak hal yg perlu diperbaiki
+terkait CyberSecurity Awareness.
+
+Realitas di beberapa daerah,
+eforia smartcity lebih kearah
+berlomba2x untuk membuat,
+(a) "wah" fasilitas data center
+(b) "wah" fasilitas command center
+(c) "wah" fasilitas media center
+(d) "wah" fasilitas technology TIK
+
+Pertanyaan setelah investasi
+device & software yg canggih,
+(a) Bagaimana maintenance nya ?
+(b) Bagaimana sustainability nya ?
+(c) Siapa SDM tangani Dev&Ops nya ?
+(d) Siapa SDM tangani Insiden Cyber ?
+
+Perlu dicermati lebih mendalam,
+strategi & arah smarcity indonesia.
+
+Perlu standar layanan TIK,
+bid kesehatan ada standar minimal,
+jg kompetensi sdm ada standarnya,
+baik sdm struktural / fungsional,
+misal kepala puskesmas itu dokter,
+dokter pasti pernah tangani pasien,
+tdk spt ijazah teknis spt ST / SKom,
+yg blm tentu bisa coding / program,
+hasil skripsi aplikasi boleh dibuatkan,
+ijazah tdk mewakili kompetensi TIK,
+maka perlu ujian kompetensi TIK,
+dg sertifikasi TIK internasional / SKNI.
+
+Jgn krn memiliki anggaran lebih,
+TIK dikelola 100% pihak external,
+internal gov cukup sbg operator,
+tdk ada alokasi utk diklat sdm TIK,
+lalu dimana letak smart gov-nya ?
+
+Jgn krn mengejar prestasi/piagam,
+kota cerdasnya hanya tahun2 awal,
+5-10 tahun kedepan miskin inovasi,
+lalu dimana letak sustainability-nya ?
+
+Semoga tdk berhenti pd "smart citra",
+tapi serius membangun "smart city",
+yg punya dampak minimal perbaikan
+kualitas layanan publik pemerintah
+(maksimal perbaikan pendapatan
+citizen yg lebih merata/ tdk timpang).
+
+Sangat tepat & setuju dg ungkapan,
+Teknologi bukan tujuan smartcity,
+tp teknologi percepat adopsi smarcity,
+transformasi tata kelola lebih efisien,
+dg fokus pd citizen bukan teknologi.
+
+Semoga eforia smartcity,
+bisa kembalikan arah pembangunan,
+bukan hanya bangunlah badannya,
+tapi melupakan bangunlah jiwanya,
+semua hanya utk Indonesia Raya.
+
+Sekedar pendapat pribadi saya,
+sebatas apa yg saya ketahui saja,
+kurang lebihnya saya mohon maaf,
+semoga bermanfaat.
+
+Best Regards,
+Bayu S.
