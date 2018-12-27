@@ -5,8 +5,9 @@ diantaranya adalah sebagai berikut :
 1. Intro Ethical Hacker
 2. IT Service Management
 3. Smart Cyber Security
-4. SMKI_Pati_Full.pdf
-5. Smart_Cybersecurity.pdf
+4. Arah SmartCity Indonesia
+5. SMKI_Pati_Full.pdf
+6. Smart_Cybersecurity.pdf
 
 Semoga Bermanfaat :)
 
